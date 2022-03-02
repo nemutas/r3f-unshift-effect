@@ -1,15 +1,12 @@
 {
   "files": {
-    "main.css": "/r3f-unshift-effect/static/css/main.0b46b132.css",
-    "main.js": "/r3f-unshift-effect/static/js/main.9acb737f.js",
-    "static/js/787.c47d63c9.chunk.js": "/r3f-unshift-effect/static/js/787.c47d63c9.chunk.js",
-    "index.html": "/r3f-unshift-effect/index.html",
-    "main.0b46b132.css.map": "/r3f-unshift-effect/static/css/main.0b46b132.css.map",
-    "main.9acb737f.js.map": "/r3f-unshift-effect/static/js/main.9acb737f.js.map",
-    "787.c47d63c9.chunk.js.map": "/r3f-unshift-effect/static/js/787.c47d63c9.chunk.js.map"
+    "main.css": "/r3f-unshift-effect/static/css/main.b52d30a4.css",
+    "main.js": "/r3f-unshift-effect/static/js/main.c676cab9.js",
+    "static/js/27.ef0cb643.chunk.js": "/r3f-unshift-effect/static/js/27.ef0cb643.chunk.js",
+    "index.html": "/r3f-unshift-effect/index.html"
   },
   "entrypoints": [
-    "static/css/main.0b46b132.css",
-    "static/js/main.9acb737f.js"
+    "static/css/main.b52d30a4.css",
+    "static/js/main.c676cab9.js"
   ]
 }
