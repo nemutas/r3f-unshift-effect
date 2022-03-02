@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/r3f-unshift-effect/static/css/main.0b46b132.css",
-    "main.js": "/r3f-unshift-effect/static/js/main.9a6049a2.js",
+    "main.js": "/r3f-unshift-effect/static/js/main.8e9a7777.js",
     "static/js/787.c47d63c9.chunk.js": "/r3f-unshift-effect/static/js/787.c47d63c9.chunk.js",
     "index.html": "/r3f-unshift-effect/index.html",
     "main.0b46b132.css.map": "/r3f-unshift-effect/static/css/main.0b46b132.css.map",
-    "main.9a6049a2.js.map": "/r3f-unshift-effect/static/js/main.9a6049a2.js.map",
+    "main.8e9a7777.js.map": "/r3f-unshift-effect/static/js/main.8e9a7777.js.map",
     "787.c47d63c9.chunk.js.map": "/r3f-unshift-effect/static/js/787.c47d63c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b46b132.css",
-    "static/js/main.9a6049a2.js"
+    "static/js/main.8e9a7777.js"
   ]
 }
